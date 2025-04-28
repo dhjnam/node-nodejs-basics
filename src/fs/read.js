@@ -34,7 +34,6 @@ const read = async () => {
             console.log(line);
         }
     } catch (err) {
-        let a = 1;
     }
 };
 
